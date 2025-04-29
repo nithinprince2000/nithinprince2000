@@ -31,7 +31,7 @@ I'm a passionate developer with 3+ years of experience building full-stack web a
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nithinaashikps)
-- 💻 [GitHub](https://github.com/nithinprince2000)
+- 💻 [GitHub 1](https://github.com/nithinprince2000), [Github 2](https://github.com/nithinAashikPS/)
 - ✉️ nithinaashikps@gmail.com
 
 ---
